@@ -1,6 +1,6 @@
 <nav class="sidebar">
     <div class="sidebar-header">
-        <a href="{{ route('/') }}" class="sidebar-brand">
+        <a href="/" class="sidebar-brand">
           Real<span>Estate</span>
         </a>
         <div class="sidebar-toggler not-active">
@@ -138,12 +138,6 @@
               </ul>
             </div>
           </li>
-          <li class="nav-item">
-            <a href="pages/apps/calendar.html" class="nav-link">
-              <i class="link-icon" data-feather="calendar"></i>
-              <span class="link-title">Calendar</span>
-            </a>
-          </li>         
         </ul>
     </div> 
 </nav>
